@@ -1,2 +1,2 @@
-personal website coming soon... <br>
-<img src="./skeleton.gif" width="175" />
+currently on branch0 <br>
+<img src="./skeleton0.gif" width="175" />
