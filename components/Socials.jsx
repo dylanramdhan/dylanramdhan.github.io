@@ -5,8 +5,8 @@ import { FaGithub } from 'react-icons/fa';
 import { FaLinkedin } from 'react-icons/fa';  // Ensure correct import
 
 const socials = [
-    { icon: <FaGithub />, path: "" },
-    { icon: <FaLinkedin />, path: "" },  // Ensure correct case
+    { icon: <FaGithub />, path: "https://github.com/dylanramdhan" },
+    { icon: <FaLinkedin />, path: "https://www.linkedin.com/in/dramdhan/" },  // Ensure correct case
 ];
 
 const Socials = ({ containerStyles, iconStyles }) => {
